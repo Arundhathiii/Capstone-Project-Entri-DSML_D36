@@ -1,12 +1,7 @@
 # Electric Vehicle Price prediction Model
-Dataset name: Electric Vehicle Population Data
-Source: https://catalog.data.gov/dataset/electric-vehicle-population-data
-Description: The Electric Vehicle Population Data dataset contains information about electric vehicles in the United States. The dataset comprises 223995 observations and 17 variables, including:
-Vehicle characteristics: make, model, electric vehicle type, and base MSRP
-Geographic information: county, city, state, postal code, and legislative district
-Demographic data: 2020 census tract information
-Utility and location data: electric utility and vehicle location
-The dataset aims to provide insights into the population and characteristics of electric vehicles in the United States, which can be useful for researchers, policymakers, and industry stakeholders.
+* Dataset name: Electric Vehicle Population Data
+* Source: https://catalog.data.gov/dataset/electric-vehicle-population-data
+* Description: The Electric Vehicle Population Data dataset contains information about electric vehicles in the United States. The dataset comprises 223995 observations and 17 variables.
 
 ## Data Preprocessing Steps
 1. Handling missing values: Replaced missing values in numerical columns with mean and categorical columns with mode.
